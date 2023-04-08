@@ -1,14 +1,15 @@
-# Tienda Punto de Venta
- Aplicación de punto de venta de escritorio creada con electron
+# Powered by DREWDEV®
+# Tienda Punto de Venta - Ecommerce - Inventario - Boleta y Factura Electrónica
+Compatible con Android & iOS (React)
  
-  **Características:**
+  **Algunas Características:**
 
 - Puede ser utilizado por múltiples PC en una red con una base de datos central.
 - Impresión de recibos.
 - Búsqueda de producto por código de barras.
 - Cuentas y permisos del personal.
 - Productos y Categorías.
-- Gestión básica de stock.
+- Gestión de stock.
 - Pestañas abiertas (Pedidos).
 - Base de datos de cliente.
 - Historial de transacciones.

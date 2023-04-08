@@ -18,12 +18,13 @@ Aplicación Web de punto de venta de escritorio
 - Filtrar Transacciones por Caja, Cajero o Estado.
 - Filtrar transacciones por rango de fechas.
 - Compatible con Woocommerce, Shopify, Prestashop.
-- Sistema de inventarios, cantidad, fecha de vencimiento
+- Sistema de inventarios, cantidad, fecha de vencimiento.
 - Alerta de stock bajo por correo.
 - Notificación al proveedor.
-- Sistema disponible en APP móvil nativo
-- (PRONTO) Compatibilidad con Impuestos Nacionales de Bolivia SIAT
-- (PRONTO) Compatibilidad con Impuesto General a la Venta Perú IGV
+- Contabilidad y descarga de archivos.
+- (pronto) Sistema disponible en APP móvil nativo.
+- (PRONTO) Compatibilidad con Impuestos Nacionales de Bolivia SIAT.
+- (PRONTO) Compatibilidad con Impuesto General a la Venta Perú IGV.
 
  **Para usar en Windows:**
  [Descargar](http://google.com) el instalador de MSI

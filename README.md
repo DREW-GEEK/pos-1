@@ -32,7 +32,7 @@ El nombre de usuario y la contraseña predeterminados son **admin**
 
 **Para personalizar/crear su propio instalador**
 
-- Clonar este proyecto.
+- CL este proyecto.
 - Abra la terminal y navegue a la carpeta clonada.
 - Ejecute "npm install" para instalar las dependencias.
 - Ejecute "npm run electron".

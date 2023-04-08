@@ -22,7 +22,7 @@ Aplicación Web de punto de venta de escritorio
 - Alerta de stock bajo por correo.
 - Notificación al proveedor.
 - Contabilidad y descarga de archivos.
-- (pronto) Sistema disponible en APP móvil nativo.
+- (PRONTO) Sistema disponible en APP móvil nativo.
 - (PRONTO) Compatibilidad con Impuestos Nacionales de Bolivia SIAT.
 - (PRONTO) Compatibilidad con Impuesto General a la Venta Perú IGV.
 
